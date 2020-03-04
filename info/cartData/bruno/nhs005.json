@@ -1,0 +1,52 @@
+{
+    "skuData": [
+        {
+            "skuName": "Aセット",
+            "value": 4289,
+            "thum": "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/05873349/3smoothy/imgrc0073856114.jpg"
+        },
+        {
+            "skuName": "Bセット",
+            "value": 4290,
+            "thum": "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/05873349/3smoothy/imgrc0073856115.jpg"
+        },
+        {
+            "skuName": "Cセット",
+            "value": 4291,
+            "thum": "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/05873349/3smoothy/imgrc0073856116.jpg"
+        },
+        {
+            "skuName": "Dセット",
+            "value": 4292,
+            "thum": "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/05873349/3smoothy/imgrc0073856117.jpg"
+        },
+        {
+            "skuName": "Eセット",
+            "value": 4293,
+            "thum": "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/05873349/3smoothy/imgrc0073856110.jpg"
+        },
+        {
+            "skuName": "Fセット",
+            "value": 4294,
+            "thum": "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/05873349/3smoothy/imgrc0073856111.jpg"
+        },
+        {
+            "skuName": "Gセット",
+            "value": 4295,
+            "thum": "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/05873349/3smoothy/imgrc0073856112.jpg"
+        }
+    ],
+    "coreData": {
+        "brand": "Natural Healthy Standard.",
+        "productName": "ミネラル酵素グリーンスムージー 選べる3袋セット",
+        "price": "5,452",
+        "thum": "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/05873349/smoothie/medal.jpg",
+        "shopBid": 262435,
+        "itemId": 10000513,
+        "checkContent": [
+
+        ],
+        "isFreeShipping": true,
+        "maxNum": 10
+    }
+}

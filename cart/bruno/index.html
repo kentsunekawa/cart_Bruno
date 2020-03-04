@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<meta name="robots" content="noindex,nofollow">
+<title>楽天複数商品カート</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+<link rel="stylesheet" href="css/cart_bruno.css?2">
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="https://www.rakuten.ne.jp/gold/kobe-beauty-labo/js/set-iframe-height-child-min.js"></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MBB34SV');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MBB34SV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="bruno">
+    <div class="bruno_productsArea">
+        <div class="bruno_products comp-items">
+            <ul class="comp-items_itemList comp-items_productList" data-cart-elem="productsList">
+                <!-- ここに商品が出力される -->
+            </ul>
+        </div>
+    </div>
+    <!-- <div class="bruno_footer">
+        <div class="bruno_cvArea">
+            <div class="bruno_cvBtn">
+                <a href="https://ts.basket.step.rakuten.co.jp/rms/mall/bs/cartall/?shop_bid=262435" class="comp-btn comp-btn__cart" target="_top"><span class="comp-btn_icon"></span>かごを見る</a>
+            </div>
+        </div>
+    </div> -->
+</div>
+<script src="js/cart_bruno_dev.js?3"></script>
+<script src="../js/execCart.js"></script>
+<script>
+$(document).ready(function() {
+    var options = {
+        
+    };
+    window.execCart('bruno', options);
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+{
+    "skuData": [
+        {
+            "skuName": "マンゴー味",
+            "value": 4296,
+            "thum": "https://d2frson3rx2rqb.cloudfront.net/img/goods/L/nhs001-nhs18010aa_a880935965ab4346b12ad228a9f09639.jpg"
+        },
+        {
+            "skuName": "はちみつレモン味",
+            "value": 4297,
+            "thum": "https://d2frson3rx2rqb.cloudfront.net/img/goods/L/nhs001-nhs18013aa_9b257938f2b444f1aee4cee813ff586e.jpg"
+        },
+        {
+            "skuName": "豆乳抹茶味",
+            "value": 4298,
+            "thum": "https://d2frson3rx2rqb.cloudfront.net/img/goods/L/nhs001-nhs18012aa_3f992f4042c547a39c796c7330277761.jpg"
+        },
+        {
+            "skuName": "乳酸菌グリーンフルーティー味",
+            "value": 4299,
+            "thum": "https://d2frson3rx2rqb.cloudfront.net/img/goods/L/nhs001-nhs18008aa_e300f5397c244a76864c16271e1dec04.jpg"
+        },
+        {
+            "skuName": "乳酸菌ベリーヨーグルト味",
+            "value": 4300,
+            "thum": "https://d2frson3rx2rqb.cloudfront.net/img/goods/L/nhs001-nhs18009aa_1dc010115bb44bd1b016e943fa3a4bee.jpg"
+        }
+    ],
+    "coreData": {
+        "brand": "Natural Healthy Standard.",
+        "productName": "ミネラル 酵素スムージー",
+        "price": "2,138",
+        "thum": "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/05873349/smoothie/medal.jpg",
+        "shopBid": 262435,
+        "itemId": 10000712,
+        "checkContent": [
+            "ネコポス配送は最大2袋まで",
+            "代金引換ご利用の場合にはネコポス発送が不可となり、宅配便発送となります。",
+            "ネコポスご利用の場合、配達日のご指定はできません。",
+            "ネコポス配送の場合、納品書は入りません。"
+        ],
+        "isFreeShipping": true,
+        "maxNum": 10
+    }
+}

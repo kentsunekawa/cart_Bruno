@@ -1,0 +1,20 @@
+{
+    "skuData": [
+
+    ],
+    "coreData": {
+        "brand": "Natural Healthy Standard.",
+        "productName": "ミネラルコンブチャパウダー ベリーミックス味",
+        "price": "2,654",
+        "thum": "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/03031837/ten-konbutya-01.jpg",
+        "shopBid": 262435,
+        "itemId": 10001625,
+        "checkContent": [
+            "ネコポス配送は最大2個まで",
+            "ネコポスは…配達日指定不可/納品書は入りません/ラッピング不可",
+            "代金引換ご利用の場合にはネコポス発送が不可となり、宅配便発送となります。"
+        ],
+        "isFreeShipping": true,
+        "maxNum": 10
+    }
+}
